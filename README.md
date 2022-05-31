@@ -1,6 +1,7 @@
 # True-Vs-Fake-News-Detection
 
 Import dataset from True vs Fake.zip in collab/ kaggle 
+
 WHY FAKE NEWS IS A PROBLEM?
 Fake news is defined as misinformation, disinformation, or mal-information that spreads by word of mouth, conventional media, and, more recently, digital modes of communication such as manipulated films, memes, unconfirmed adverts, and social media disseminated rumours. Fake news on social media has become a severe concern, with the potential for it to lead to mob violence, suicides, and other negative outcomes as a result of disinformation propagated on social media.
 
